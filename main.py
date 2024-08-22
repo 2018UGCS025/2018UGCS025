@@ -17,5 +17,6 @@ plt.ylabel('Frequency')
 
     # Show the plot
 plt.show()
+print("viswalization completion of histogram")
 
 
